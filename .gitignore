@@ -1,1 +1,9 @@
-main
+#----- ignore all files without extension(executable files) -----
+# ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
